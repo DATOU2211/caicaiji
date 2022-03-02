@@ -1,2 +1,0 @@
-# caicaiji
-新手
