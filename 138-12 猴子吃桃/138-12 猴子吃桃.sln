@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "138-12 猴子吃桃", "138-12 猴子吃桃\138-12 猴子吃桃.vcxproj", "{5262C7B3-C77D-49C7-A46F-6A8032BE1505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Debug|x64.ActiveCfg = Debug|x64
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Debug|x64.Build.0 = Debug|x64
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Debug|x86.ActiveCfg = Debug|Win32
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Debug|x86.Build.0 = Debug|Win32
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Release|x64.ActiveCfg = Release|x64
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Release|x64.Build.0 = Release|x64
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Release|x86.ActiveCfg = Release|Win32
+		{5262C7B3-C77D-49C7-A46F-6A8032BE1505}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA6D49E-0700-45A0-902C-6E00200DDADC}
+	EndGlobalSection
+EndGlobal
